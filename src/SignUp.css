@@ -1,0 +1,41 @@
+.SignUp{
+    color:whitesmoke;
+    background: #C23A7C;
+    background: -webkit-linear-gradient(bottom right, #C23A7C, #0061B5);
+    background: -moz-linear-gradient(bottom right, #C23A7C, #0061B5);
+    background: linear-gradient(to top left, #C23A7C, #0061B5);
+    box-sizing: border-box;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    border: solid whitesmoke;
+    width:500px;
+    height:600px;
+    position:"center";
+
+}
+
+.photoContainer {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.profilePhoto {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-left: center;
+    margin-right: center;
+}
+
+.submitButton{
+    border-radius: 15px;
+    margin-left:3px;
+}
